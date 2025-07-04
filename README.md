@@ -1,5 +1,5 @@
 # 2025-mondroid-study
-엄재웅님의 **'Manifest Android Interview'** 책의 퀴즈를 바탕으로 키워드 공부 및 안드로이드 면접 준비 스터디  
+엄재웅님의 **'Manifest Android Interview'** 책의 퀴즈를 바탕으로 키워드 공부 및 안드로이드 스터디  
 (mon)day + (mo)rning에 진행되는 + an(droid) 스터디
 
 ## 진행방식
